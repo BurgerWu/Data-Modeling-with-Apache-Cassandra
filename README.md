@@ -1,5 +1,5 @@
 # Data Modeling with Apache Cassandra
-![image](image/cassandra.png)
+![image](images/cassandra.png)
 
 ## Motivation
 This project is the hands-on project provided by udacity data engineering nanodegree. We have log file storing user activity and song data available for all the songs in Sparkify system. It is our job to extract, transform and load these data into Apache Cassandra database in order to satisfy our query demand.
